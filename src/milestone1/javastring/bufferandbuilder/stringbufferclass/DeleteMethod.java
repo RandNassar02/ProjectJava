@@ -1,4 +1,4 @@
-package milestone1.javastring.stringbufferclass;
+package milestone1.javastring.bufferandbuilder.stringbufferclass;
 
 public class DeleteMethod {
     public static void main(String[] args) {
