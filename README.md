@@ -22,13 +22,13 @@ o	Milestone 3 :
 -	Java 8 Date Time
 -	Java Array
 -	Java Collections
--	Java Multithreading (contact Husam)
--	Java I/O (contact Husam)
+-	Java Multithreading 
+-	Java I/O 
 -	Generics + Streams
--	Java Networking (contact Husam)
+-	Java Networking 
 -	Java Reflection API
 -	Java JDBC
--	Java New Features (contact Husam)
+-	Java New Features 
 
 o	Milestone 4 : 
 -	Build Tools
