@@ -1,4 +1,4 @@
-package milestone2.javainheritance;
+package milestone2.inheritancejava.inheritance;
 class Animal2{
     void eat(){System.out.println("eating...");}
 }

@@ -1,4 +1,4 @@
-package milestone2.javainheritance;
+package milestone2.inheritancejava.inheritance;
 
 class Employee {
     float salary = 40000;
