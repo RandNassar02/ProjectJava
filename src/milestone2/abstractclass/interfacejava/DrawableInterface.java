@@ -1,4 +1,8 @@
 package milestone2.abstractclass.interfacejava;
+
+//Drawable interface has only one method
+
+
 //Interface declaration: by first user
 interface Drawable{
     void draw();

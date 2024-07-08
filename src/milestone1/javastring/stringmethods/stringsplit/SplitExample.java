@@ -5,7 +5,10 @@ public class SplitExample {
         String str1 = "java string split method by javatpoint";
         String[] words=str1.split("\\s");//splits the string based on whitespace
 
-        for(String word:words)
-            System.out.println(word);
+        for(String word:words){
+            if (word.equals("split"))
+                System.out.println(word);
+        }
+
     }
 }

@@ -14,5 +14,18 @@ public class AND {
 
         System.out.println(a<b & a++<c);
         System.out.println(a); // 11 Checked
+
+
+        System.out.println(test1() && a<c); //F&&T=F
+    }
+
+    private static boolean test1() {
+        System.out.println("Test1");
+        return false;
+    }
+
+    private static boolean test2() {
+        System.out.println("Test2");
+        return false;
     }
 }

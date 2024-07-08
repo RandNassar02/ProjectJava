@@ -4,7 +4,32 @@ public class Simple {
     public static void main(String[] args) {
         System.out.println("Hello Java");
     }
+
+    public void testPublic(){
+
+    }
+
+    protected void testProtected(){
+
+    }
+
+    private void testPrivate(){
+
+    }
+
+    void testPackagePrivate(){
+
+    }
+
+    public static class BSimple extends Simple{
+        @Override
+        protected void testProtected() {
+            super.testProtected();
+        }
+    }
+
 }
+
 
 
 //Valid Java main() method signature
